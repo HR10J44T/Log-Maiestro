@@ -4,8 +4,8 @@
 ## **AI-Powered Log Anomaly Detection System**
 ### _Enterprise-grade • Transformer-Driven • Real-Time Security Intelligence_
 
-```
 
+```
 ██████╗  ██████╗  ██████╗ ██╗     ███████╗███╗   ██╗███████╗███████╗
 ██╔══██╗██╔═══██╗██╔═══██╗██║     ██╔════╝████╗  ██║██╔════╝██╔════╝
 ██║  ██║██║   ██║██║   ██║██║     █████╗  ██╔██╗ ██║█████╗  ███████╗
