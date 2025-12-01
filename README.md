@@ -81,7 +81,7 @@ Perfect for:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/dkgamer02ai/LogLens.git
+git clone https://github.com/hr10j44t/Log-Lens.git
 cd LogLens
 ````
 
